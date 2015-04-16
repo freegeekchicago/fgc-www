@@ -1,0 +1,8 @@
+# Jekyll Generated Static Pages
+_site/
+
+# Jekyll 3 generated metadata file
+.jekyll-metadata
+
+# Cache created by SASS for speedy processing
+.sass-cache/

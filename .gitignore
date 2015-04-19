@@ -6,3 +6,6 @@ _site/
 
 # Cache created by SASS for speedy processing
 .sass-cache/
+
+# Temporary Save Files
+*~

@@ -81,6 +81,8 @@
     Specifically used to process a thrift store sale.
 
 ## Structure
+
+```
 .
 ├── /
 |   |
@@ -118,3 +120,5 @@
 ├── /constitution
 ├── /contact
 |   └── Hours and Directions
+
+```

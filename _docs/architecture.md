@@ -1,10 +1,18 @@
-# www.freegeekchicago.org
-
-## Wishlist of Features
-- Navbar has BIG RED DONATE BUTTON to embedded PAYPAL donation page
+# http://freegeekchicago.org
 
 ## Main Pages to Sort
+
+```
+# Legend
+ * Feature should exist on page
+ - Sub-page of parent page
+```
+
+```
+# Pages
 - root / Front Page
+    * Big Red **DONATE** Button on main navbar. Link to embedded PAYPAL donation page.
+    * Links to other sections.
 
 - About Us
     * Mission
@@ -58,7 +66,7 @@
     - Code of Conduct
     - Constitution
     - Discussion List (Google Group Embed)
-
+```
 
 ## Additional Information Areas to Sort
 - Hackpad / Wiki

@@ -24,4 +24,5 @@ wget https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-
 
 
 # Maybe useful links for working with Jekyll
-- http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
+- [Creating Dynamix menus](http://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/)
+- [Showing latest post on home page with Jekyll](https://gist.github.com/nimbupani/1421828)

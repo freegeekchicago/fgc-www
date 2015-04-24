@@ -11,12 +11,13 @@
 ```
 # Pages
 - root / Front Page
-    * Big Red **DONATE** Button on main navbar. Link to embedded PAYPAL donation page.
+    * Big (maybe Red) **DONATE** Button on main navbar. Link to embedded PAYPAL donation page.
     * Links to other sections.
 
 - About Us
     * Mission
     * History
+    * Contact Us (Link to /contact)
     - Media / Press (Read all about us!)
         * List of news articles
     - Legal
@@ -63,9 +64,13 @@
     - Education
 
 - Community
+    * About the Community
+    * Our Board of Directors
+    * Our Support Staff
     - Code of Conduct
     - Constitution
     - Discussion List (Google Group Embed)
+    - News/Web-log
 ```
 
 ## Additional Information Areas to Sort
@@ -101,12 +106,38 @@
 |   ├── 
 |   |
 |
-|
 |── /about
-|   ├── Mission
-|   ├── History
-|   ├── Press / Media
-|   ├── Legal Info
+|   ├── * Mission
+|   ├── * History
+|   |
+|   ├── /about/press OR /about/media
+|   |   └── * List of news articles
+|   |
+|   └── /about/legal
+|       ├── * Incorporated Name: FREEGEEK/CHICAGO, NFP
+|       ├── * Federal Tax Identification Number (TIN, EIN)(Link): 26-1852070
+|       └── * Illinois, Secretary of State File Number (Link): 65933357
+|
+├── /community
+|   ├── * About the Community
+|   ├── * Our Board of Directors
+|   ├── * Our Support Staff
+|   ├── * Link to our Policies (github.com/freegeekchicago/fgc-docs)
+|   |
+|   ├── /community/discuss
+|   |   └── * Embedded Google Groups
+|   |
+|   ├── /community/blog
+|   |   └── * News stories (top one displayed on front page)
+|   |
+|   ├── /community/calendar
+|   |   └── * Embedded Google Calendar
+|   |
+|   ├── /community/conduct
+|   |   └── * Code of Conduct (Embedded from github? or keep synced with github?)
+|   |
+|   ├── /community/constitution
+|   |   └── * Constitution (Embedded from github? or keep synced with github?)
 |
 ├── /volunteer
 |
@@ -114,18 +145,8 @@
 |
 ├── /donate
 |
-|
 ├── /shop
 |
-|
-├── /staff?
-|
-├── /community
-|   └── Embedded Google Groups
-|
-├── /calendar
-├── /codeofconduct
-├── /constitution
 ├── /contact
 |   └── Hours and Directions
 

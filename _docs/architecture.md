@@ -78,7 +78,7 @@
 - Townsquare (Under Community / Volunteer)
 
 - Twitter (Footer)
-- Facebook (Footer)
+- Facebook (Footer)    
 - Google+ (Footer)
 
 - LinkedIn (Footer)
@@ -109,14 +109,23 @@
 |── /about
 |   ├── * Mission
 |   ├── * History
+|   ├── * More
+|   |   ├── Link to /about/press
+|   |   ├── Link to /about/legal
+|   |   ├── Link to /about/contact
 |   |
 |   ├── /about/press OR /about/media
 |   |   └── * List of news articles
 |   |
-|   └── /about/legal
-|       ├── * Incorporated Name: FREEGEEK/CHICAGO, NFP
-|       ├── * Federal Tax Identification Number (TIN, EIN)(Link): 26-1852070
-|       └── * Illinois, Secretary of State File Number (Link): 65933357
+|   ├── /about/legal
+|   |   ├── * Incorporated Name: FREEGEEK/CHICAGO, NFP
+|   |   ├── * Federal Tax Identification Number (TIN, EIN)(Link): 26-1852070
+|   |   └── * Illinois, Secretary of State File Number (Link): 65933357
+|   |
+|   ├── /about/contact
+|   |   ├── * Directions + Map
+|   |   ├── * Hours
+|   |   └── * Contact Form
 |
 ├── /community
 |   ├── * About the Community
@@ -140,8 +149,23 @@
 |   |   └── * Constitution (Embedded from github? or keep synced with github?)
 |
 ├── /volunteer
+|   ├── * Get Started! / Orientation
+|   |   ├── * Service / Learning - OR Why our volunteer programs are awesome!
+|   |   |   └── * Brief description of Rewards Program and link to /volunteer/rewards
+|   |   ├── * Volunteer Qualifications
+|   |   └── * Orientation Dates and Times
+|   ├── * Service Areas
+|   |   ├── * Build (Build Your Knowledge while You Build a Box. Includes Desktop QA)
+|   |   |   └── * Short snippet with link to /volunteer/build-desktops
+|   |   ├── * Build for Laptops (Includes Laptop QA)
+|   |   |   └── * Short snippet with link to /volunteer/build-laptops
+|   |   ├── * Intake and Testing
+|   |   |   └── * Short snippet with link to /volunteer/testing
+|   |   ├── * Education
+|   |   |   └── * Short snippet with link to /volunteer/education (or /education/volunteer ?)
+|   |   ├── * Store / Customer Service
+|   |   |   └── * Short snippet with link to /volunteer/store (or /store/volunteer ?)
 |
-├── /rewards (replacement for earn-a-box?)
 |
 ├── /donate
 |

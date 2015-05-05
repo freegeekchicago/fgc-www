@@ -187,6 +187,9 @@
     * Github/freegeekchicago
     * Github/sc3
 
+- Our Outreach / Our giving
+- Education?
+
 - Hackpad / Wiki
 - Townsquare (Under Community / Volunteer)
 
@@ -197,5 +200,5 @@
 - LinkedIn (Footer)
 - Github (Footer)
 
-- Yelp
-- Google+ Place
+- Yelp (Only on store page?)
+- Google+ Place (Only on Store Page?)

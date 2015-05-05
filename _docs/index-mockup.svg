@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
+   width="1280"
    height="3000"
    id="svg2"
    version="1.1"
@@ -20,12 +20,13 @@
   <defs
      id="defs4">
     <filter
-       height="35.341979"
+       height="35.34198"
        y="-17.17099"
-       width="1.3114919"
+       width="1.3114918"
        x="-0.15574594"
        id="filter3944"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3946"
          stdDeviation="4.081661"
@@ -46,12 +47,13 @@
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
     <filter
-       height="35.341979"
+       height="35.34198"
        y="-17.17099"
-       width="1.3114919"
+       width="1.3114918"
        x="-0.15574594"
        id="filter3944-9"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3946-7"
          stdDeviation="4.081661"
@@ -82,12 +84,13 @@
          xlink:href="#adobe_illustrator_pgf" />
     </foreignObject>
     <filter
-       height="35.341979"
+       height="35.34198"
        y="-17.17099"
-       width="1.3114919"
+       width="1.3114918"
        x="-0.15574594"
        id="filter3944-1"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3946-6"
          stdDeviation="4.081661"
@@ -117,18 +120,6 @@
       <i:pgfRef
          xlink:href="#adobe_illustrator_pgf" />
     </foreignObject>
-    <filter
-       height="35.341979"
-       y="-17.17099"
-       width="1.3114919"
-       x="-0.15574594"
-       id="filter3944-4"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3946-1"
-         stdDeviation="4.081661"
-         inkscape:collect="always" />
-    </filter>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 0.5 : 1"
@@ -150,19 +141,6 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 90 : 1"
        sodipodi:type="inkscape:persp3d" />
-    <filter
-       color-interpolation-filters="sRGB"
-       height="35.34198"
-       y="-17.17099"
-       width="1.3114918"
-       x="-0.15574594"
-       id="filter3944-2"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3946-66"
-         stdDeviation="4.081661"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4121-6"
        inkscape:collect="always">
@@ -4444,12 +4422,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="479.46283"
-     inkscape:cy="2627.4042"
+     inkscape:cx="723.03312"
+     inkscape:cy="1497.0169"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
      inkscape:window-height="726"
@@ -4462,7 +4440,7 @@
        id="guide2985" />
     <sodipodi:guide
        orientation="1,0"
-       position="1024,0"
+       position="1280,0"
        id="guide2987" />
     <sodipodi:guide
        orientation="0,1"
@@ -4477,17 +4455,33 @@
        position="10,0"
        id="guide5611" />
     <sodipodi:guide
-       orientation="0,1"
+       orientation="-2.4554105e-09,1"
        position="0,2965"
        id="guide5625" />
     <sodipodi:guide
        orientation="1,0"
-       position="340,0"
+       position="430,0"
        id="guide6415" />
     <sodipodi:guide
        orientation="1,0"
-       position="680,0"
+       position="850,0"
        id="guide6417" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1270,0"
+       id="guide4413" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="215,2511.4286"
+       id="guide4647" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="635,2057.1429"
+       id="guide4649" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1055,2161.4286"
+       id="guide4651" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -4506,31 +4500,48 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1947.6378)">
+    <rect
+       style="fill:#fcfafa;fill-opacity:1;stroke:none"
+       id="rect4214"
+       width="1280"
+       height="3000"
+       x="0"
+       y="-1947.6379" />
+    <image
+       mask="none"
+       width="809.27905"
+       height="539.51935"
+       xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2015-04-18/DSCF0979.JPG"
+       id="image6197"
+       x="0"
+       y="-953.63782" />
     <image
        y="-1947.6378"
        x="0"
        id="image5576"
        xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2015-04-18/DSCF0979.JPG"
-       height="682.66669"
-       width="1024" />
+       height="539.51935"
+       width="809.27905"
+       mask="none" />
+    <image
+       mask="none"
+       width="809.27905"
+       height="539.51935"
+       xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2015-04-18/DSCF0979.JPG"
+       id="image4411"
+       x="470.86047"
+       y="-1947.6378" />
     <rect
-       style="fill:#fcfafa;fill-opacity:1;stroke:none"
-       id="rect4214"
-       width="1024"
-       height="2460.5786"
-       x="0"
-       y="-1408.2164" />
-    <rect
-       style="fill:#6e8387;fill-opacity:0.86567163;stroke:none"
+       style="fill:#6e8387;fill-opacity:0.86567161;stroke:none"
        id="rect2993"
-       width="944"
-       height="70"
-       x="80"
+       width="1280"
+       height="50"
+       x="0"
        y="-1947.6378" />
     <rect
        y="-1947.6378"
-       x="854.81"
-       height="70.000008"
+       x="1110"
+       height="50"
        width="170"
        id="rect3763"
        style="fill:#ff2a7f;fill-opacity:1;stroke:none" />
@@ -4545,29 +4556,29 @@
        transform="matrix(0.55260826,0,0,0.55260826,-39.500226,-2131.6152)"
        id="layer1-5"
        inkscape:label="Layer 1"
-       style="fill:#fcfafa;stroke:none;fill-opacity:1">
+       style="fill:#fcfafa;fill-opacity:1;stroke:none">
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:5.25804852999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:5.25804853;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 137.3125,387.1875 a 2.6292872,2.6292872 0 0 0 -1.1875,0.375 c -5.2554,3.05806 -8.78125,8.78447 -8.78125,15.28125 0,9.71781 7.93846,17.625 17.65625,17.625 9.7178,0 17.65625,-7.90719 17.65625,-17.625 0,-6.49679 -3.52587,-12.22319 -8.78125,-15.28125 a 2.6292872,2.6292872 0 1 0 -2.65625,4.53125 c 3.6887,2.14642 6.1875,6.15299 6.1875,10.75 0,6.87615 -5.53011,12.375 -12.40625,12.375 -6.87613,0 -12.40625,-5.49885 -12.40625,-12.375 0,-4.59702 2.49878,-8.60358 6.1875,-10.75 a 2.6292872,2.6292872 0 0 0 -1.46875,-4.90625 z"
          id="path6119"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:4.56159401000000031;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:4.56159401;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 144.59375,381.15625 a 2.2810251,2.2810251 0 0 0 -2.28125,2.28125 l 0,11.96875 a 2.2810251,2.2810251 0 0 0 2.28125,2.28125 l 1.0625,0 a 2.2810251,2.2810251 0 0 0 2.28125,-2.28125 l 0,-11.96875 a 2.2810251,2.2810251 0 0 0 -2.28125,-2.28125 l -1.0625,0 z"
          id="rect6121"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.87182139999999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.8718214;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 144.375,344.28125 c -1.19401,0.11921 -2.29686,0.39807 -3.25,0.75 -3.81256,1.40772 -6.25,3.875 -6.25,3.875 a 4.9364043,4.9364043 0 0 0 -0.8125,1 l -18.53125,30.90625 8.4375,5.09375 18.0625,-30.09375 c 0.22443,-0.1933 1.14324,-1.01875 2.53125,-1.53125 1.46111,-0.53949 2.24085,-0.79493 3.96875,0.8125 l 16.78125,28.46875 8.5,-5.03125 L 156.53125,349.25 a 4.9364043,4.9364043 0 0 0 -0.75,-1 c -3.42919,-3.42919 -7.82422,-4.32637 -11.40625,-3.96875 z"
          id="path1390"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.87182139999999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.8718214;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="M 108.75,393.25 92,422.875 A 4.9364043,4.9364043 0 0 0 91.53125,424 c -1.673568,6.24581 1.374593,11.71458 4.5,14.3125 3.125407,2.59792 6.5,3.5 6.5,3.5 A 4.9364043,4.9364043 0 0 0 103.8125,442 l 36.03125,0.59375 0.1875,-9.875 -35.09375,-0.5625 c -0.28598,-0.10012 -1.45953,-0.49471 -2.59375,-1.4375 -1.18678,-0.98648 -1.78184,-1.56721 -1.28125,-3.8125 L 117.34375,398.09375 108.75,393.25 z"
          id="path3262"
          inkscape:connector-curvature="0" />
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.87182139999999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fcfafa;fill-opacity:1;stroke:none;stroke-width:9.8718214;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 181.1875,390.625 -8.625,4.8125 17.03125,30.65625 c 0.0557,0.29399 0.31232,1.51249 0.0625,2.96875 -0.2584,1.5063 -0.49302,2.31457 -2.625,3 l -33.125,0.3125 0.0937,9.875 34.03125,-0.3125 a 4.9364043,4.9364043 0 0 0 1.21875,-0.15625 c 6.2458,-1.67357 9.43784,-7.05687 10.125,-11.0625 0.68716,-4.00563 -0.21875,-7.375 -0.21875,-7.375 a 4.9364043,4.9364043 0 0 0 -0.46875,-1.1875 l -17.5,-31.53125 z"
          id="path3264"
          inkscape:connector-curvature="0" />
@@ -4677,15 +4688,15 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
-       x="891.11176"
-       y="-1902.3893"
+       x="1146.3018"
+       y="-1912.3893"
        id="text3974"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3976"
-         x="891.11176"
-         y="-1902.3893"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold">Donate</tspan></text>
+         x="1146.3018"
+         y="-1912.3893"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold">$ Give</tspan></text>
     <g
        transform="matrix(1.25,0,0,-1.25,-70.8625,-2171.6199)"
        inkscape:label="palette"
@@ -4945,34 +4956,53 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#6e8387;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#6e8387;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect5627"
-       width="1024"
+       width="1282.599"
        height="225"
        x="0"
        y="827.36218" />
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
-       x="138.59395"
-       y="1009.9758"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
+       x="634.17499"
+       y="971.97583"
        id="text3136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3138"
-         x="138.59395"
-         y="1009.9758"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna">3411 W Diversey Ave Basement, Chicago IL 60647 | 773.342.6205 | Hours + directions</tspan></text>
+         x="634.17499"
+         y="971.97583"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;text-anchor:middle;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light">3411 W Diversey Ave Basement, Chicago IL 60647 | 773.342.6205 | Hours + directions</tspan><tspan
+         sodipodi:role="line"
+         x="634.17499"
+         y="994.47583"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;text-anchor:middle;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5531" /><tspan
+         sodipodi:role="line"
+         x="634.17499"
+         y="1016.9758"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;text-anchor:middle;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5525">Copyright © 2005-2015, FreeGeek Chicago. All original material is licensed under a <tspan
+   style="font-weight:bold"
+   id="tspan5563">Creative Commons Attribution-Share Alike 3.0 United States License</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="634.17499"
+         y="1039.4758"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;text-anchor:middle;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5529">unless otherwise noted. See the <tspan
+   style="fill:#fcfafa;fill-opacity:1;font-weight:bold"
+   id="tspan5533">colophon</tspan> for further copyright information.</tspan></text>
     <rect
-       style="fill:#f9f9f9;fill-opacity:0.93333334;stroke:none"
+       style="fill:#f9f9f9;fill-opacity:0.93333333;stroke:none"
        id="rect6409"
-       width="700"
-       height="330"
-       x="172.28572"
-       y="-1790.4949" />
+       width="750"
+       height="300"
+       x="264.49997"
+       y="-1810.7994" />
     <g
        id="g5587"
-       transform="translate(75.80734,-32.73098)">
+       transform="translate(185.70579,-52.73098)">
       <text
          xml:space="preserve"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
@@ -5001,133 +5031,88 @@
     <text
        sodipodi:linespacing="125%"
        id="text5593"
-       y="-1901.6783"
-       x="108.32986"
+       y="-1912.6124"
+       x="242.51599"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
-         y="-1901.6783"
-         x="108.32986"
+         y="-1912.6124"
+         x="242.51599"
          id="tspan5595"
          sodipodi:role="line">Volunteer</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5601"
-       y="-1902.2457"
-       x="265.81213"
+       y="-1912.6124"
+       x="401.76697"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab"
-         y="-1902.2457"
-         x="265.81213"
+         y="-1912.6124"
+         x="401.76697"
          id="tspan5603"
-         sodipodi:role="line">Contact</tspan></text>
-    <rect
-       style="fill:none;stroke:#c8d3d5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6399"
-       width="300"
-       height="300"
-       x="20.266895"
-       y="-1341.5851" />
-    <text
-       xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
-       x="448"
-       y="-1354.2092"
-       id="text6405"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6407"
-         x="448"
-         y="-1354.2092"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna Bold">Calendar</tspan></text>
-    <rect
-       y="-1341.5851"
-       x="364.26691"
-       height="300"
-       width="300"
-       id="rect6411"
-       style="fill:none;stroke:#c8d3d5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="fill:none;stroke:#c8d3d5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6413"
-       width="300"
-       height="300"
-       x="700.26691"
-       y="-1341.5851" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text6419"
-       y="-1354.2092"
-       x="20"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
-       xml:space="preserve"><tspan
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna Bold"
-         y="-1354.2092"
-         x="20"
-         id="tspan6421"
-         sodipodi:role="line">ThisWeek @ FreeGeek</tspan></text>
+         sodipodi:role="line">Community</tspan></text>
     <text
        sodipodi:linespacing="175%"
        id="text6490"
-       y="-1642.3419"
-       x="185.58159"
+       y="-1662.3419"
+       x="295.48013"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
        xml:space="preserve"><tspan
          id="tspan6492"
-         y="-1642.3419"
-         x="185.58159"
+         y="-1662.3419"
+         x="295.48013"
          sodipodi:role="line"> • Provides education in practical computing, hands-on job skills training, and an outlet for community service.</tspan><tspan
          id="tspan6494"
-         y="-1617.8419"
-         x="185.58159"
+         y="-1637.8419"
+         x="295.48013"
          sodipodi:role="line"> • Refurbishes used computer equipment to provide functional computers to volunteers and the general public.</tspan><tspan
          id="tspan6496"
-         y="-1593.3419"
-         x="185.58159"
+         y="-1613.3419"
+         x="295.48013"
          sodipodi:role="line"> • Recycles non-reusable materials in an ethical, safe, and environmentally responsible manner.</tspan><tspan
          id="tspan6498"
-         y="-1568.8419"
-         x="185.58159"
+         y="-1588.8419"
+         x="295.48013"
          sodipodi:role="line"> • Promotes a strong participatory community by creating a safe space and welcoming environment for all.</tspan><tspan
          id="tspan6500"
-         y="-1544.3419"
-         x="185.58159"
+         y="-1564.3419"
+         x="295.48013"
          sodipodi:role="line"> • An advocate for open source software and Free/Libre culture</tspan><tspan
          id="tspan6502"
-         y="-1519.8419"
-         x="185.58159"
+         y="-1539.8419"
+         x="295.48013"
          sodipodi:role="line"> • An autonomous, self-sustaining community organization.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
-       x="184.57144"
-       y="-1643.3521"
+       x="294.46997"
+       y="-1663.3521"
        id="text6423"
        sodipodi:linespacing="175%"><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1643.3521"
+         x="294.46997"
+         y="-1663.3521"
          id="tspan6427"> • Educates in practical computing, hands-on job skills training, and an outlet for community service.</tspan><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1618.8521"
+         x="294.46997"
+         y="-1638.8521"
          id="tspan6471"> • Refurbishes used computer equipment to provide functional computers to volunteers and the general public.</tspan><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1594.3521"
+         x="294.46997"
+         y="-1614.3521"
          id="tspan6429"> • Recycles non-reusable materials in an ethical, safe, and environmentally responsible manner.</tspan><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1569.8521"
+         x="294.46997"
+         y="-1589.8521"
          id="tspan6431"> • Promotes a strong participatory community by creating a safe space and welcoming environment for all.</tspan><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1545.3521"
+         x="294.46997"
+         y="-1565.3521"
          id="tspan6433"> • An advocate for open source software and Free/Libre culture</tspan><tspan
          sodipodi:role="line"
-         x="184.57144"
-         y="-1520.8521"
+         x="294.46997"
+         y="-1540.8521"
          id="tspan6465"> • An autonomous, self-sustaining community organization.</tspan></text>
     <g
        id="g6437"
@@ -5167,64 +5152,635 @@
            y="-1681.9474"
            style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:175%;fill:#fcfafa;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold" /></text>
     </g>
-    <g
-       id="g6484"
-       transform="translate(800,0)">
-      <text
-         xml:space="preserve"
-         style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:CMU Classical Serif;-inkscape-font-specification:CMU Classical Serif Bold Italic"
-         x="508.82108"
-         y="-1646.0511"
-         id="text6449"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan6451"
-           x="508.82108"
-           y="-1646.0511"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:CMU Classical Serif;-inkscape-font-specification:CMU Classical Serif Bold Italic">is</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6445"
-         y="-1648.7858"
-         x="507.09656"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
-         xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:CMU Classical Serif;-inkscape-font-specification:CMU Classical Serif Bold Italic"
-           y="-1648.7858"
-           x="507.09656"
-           id="tspan6447"
-           sodipodi:role="line">is</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
-       x="388.32986"
-       y="-1901.6783"
+       x="92.329468"
+       y="-1912.6124"
        id="text6455"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6457"
-         x="388.32986"
-         y="-1901.6783"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab">About</tspan></text>
+         x="92.329468"
+         y="-1912.6124"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab">About Us</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:CMU Bright;-inkscape-font-specification:CMU Bright Medium"
-       x="797.20831"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
+       x="682.32947"
+       y="-1912.6124"
+       id="text4417"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4419"
+         x="682.32947"
+         y="-1912.6124"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold">Donate</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4421"
+       y="-1912.6124"
+       x="586.7074"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab"
+         y="-1912.6124"
+         x="586.7074"
+         id="tspan4423"
+         sodipodi:role="line">Shop</tspan></text>
+    <image
+       y="-953.63782"
+       x="470.86047"
+       id="image6199"
+       xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2015-04-18/DSCF0979.JPG"
+       height="539.51935"
+       width="809.27905"
+       mask="none" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Canonica;-inkscape-font-specification:MgOpen Canonica"
+       x="41.428574"
+       y="903.79077"
+       id="text5515"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5517"
+         x="41.428574"
+         y="903.79077"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold">⊠ Twitter</tspan><tspan
+         sodipodi:role="line"
+         x="41.428574"
+         y="933.96265"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         id="tspan5519">⊠ Facebook</tspan><tspan
+         sodipodi:role="line"
+         x="41.428574"
+         y="964.13477"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         id="tspan5521">⊠ Google Plus</tspan></text>
+    <rect
+       style="fill:none;stroke:#fcfafa;stroke-width:1.15592325;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6399"
+       width="389.92896"
+       height="340.64325"
+       x="21.050432"
+       y="-1341.5071" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+       x="574"
+       y="-1354.2092"
+       id="text6405"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6407"
+         x="574"
+         y="-1354.2092"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold">Calendar</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6419"
+       y="-1354.2092"
+       x="60"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+       xml:space="preserve"><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+         y="-1354.2092"
+         x="60"
+         id="tspan6421"
+         sodipodi:role="line">ThisWeek @ FreeGeek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+       x="1007.2083"
        y="-1354.8184"
        id="text6504"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6506"
-         x="797.20831"
+         x="1007.2083"
          y="-1354.8184"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna Bold">web_log</tspan></text>
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold">web_log</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       x="29.142857"
+       y="-1320.4949"
+       id="text4487"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4489"
+         x="29.142857"
+         y="-1320.4949"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold">For Aug 12 2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+       x="28.85714"
+       y="-1299.9235"
+       id="text4607"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1299.9235"
+         id="tspan4615">Another busy week at The Geek! A Basic Soldering Workshop</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1280.3235"
+         id="tspan4617">has been scheduled for this Sat. If you are interested in</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1260.7235"
+         id="tspan4619">attending, you <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+   id="tspan4645">must [<tspan
+   style="line-height:139.99999762%;fill:#23aa23;fill-opacity:1"
+   id="tspan4711">Register Online</tspan>] </tspan>to get a seat. This </tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1241.1234"
+         id="tspan4621">workshop is limited to 8 participants, but is free and open to</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1221.5234"
+         id="tspan4623">the public. If you have an idea for a Workshop you can present</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1201.9235"
+         id="tspan4627">at FreeGeek, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+   id="tspan4641">[<tspan
+   style="line-height:139.99999762%;fill:#23aa23;fill-opacity:1"
+   id="tspan4727">let us know</tspan>]</tspan>! In other news, our recycling pickup</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1182.3235"
+         id="tspan4629">with <tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+   id="tspan4639">[<tspan
+   style="line-height:139.99999762%;fill:#23aa23;fill-opacity:1"
+   id="tspan4743">Vintage Tech</tspan>] </tspan>went swimmingly. Check out the full</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1162.7235"
+         id="tspan4693"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+   id="tspan4695">[<tspan
+   style="line-height:139.99999762%;fill:#23aa23;fill-opacity:1"
+   id="tspan4745">Recycling Report</tspan>] </tspan>for the gory details.</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1143.1234"
+         id="tspan4611" /><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1123.5234"
+         id="tspan4631">As always, Janet gives a shout-out to all volunteers &amp; staff -</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1103.9235"
+         id="tspan4633"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light">**&quot;We're like the Mornin' Dew. Come join us and 'Freegeek</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1084.3235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan4707">knowledge' will saturate you!&quot;**</tspan><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1064.7235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5756" /><tspan
+         sodipodi:role="line"
+         x="28.85714"
+         y="-1045.1234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;fill:#23aa23;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5764">Continue Reading...</tspan></text>
+    <rect
+       y="-1341.5426"
+       x="441.01489"
+       height="300"
+       width="390"
+       id="rect4653"
+       style="fill:none;stroke:#c8d3d5;stroke-width:1.08487403;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#fcfafa;stroke-width:1.15350461;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4655"
+       width="389.93137"
+       height="339.21707"
+       x="860.03906"
+       y="-1341.5083" />
     <image
-       width="1024"
-       height="682.66669"
-       xlink:href="file:///home/jslater/Documents_FreeGeek/pictures/2015-04-18/DSCF0979.JPG"
-       id="image6508"
+       y="-1347.1378"
+       x="438"
+       id="image5510"
+       xlink:href="file:///home/jslater/Software_FreeGeek/fgc-www/_docs/gcalendar.png"
+       height="355"
+       width="404" />
+    <text
+       sodipodi:linespacing="140%"
+       id="text5565"
+       y="-1280.7806"
+       x="868.85718"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+       xml:space="preserve"><tspan
+         id="tspan5567"
+         y="-1280.7806"
+         x="868.85718"
+         sodipodi:role="line"
+         style="font-style:italic;font-weight:bold">Hey FreeGeekers!</tspan><tspan
+         y="-1261.1807"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5618">FreeGeek is hosting a joint Holiday and Vintage Computing</tspan><tspan
+         y="-1241.5807"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5628">Party on Saturday, December 13th from 2p to 6p. We'll be</tspan><tspan
+         y="-1221.9806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5630">ordering our standard fare of pizza and chicken to chomp on,</tspan><tspan
+         y="-1202.3806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5632">though you're also encouraged to bring a dish from home</tspan><tspan
+         y="-1182.7806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5634">(especially Holiday treats and vegan dishes).</tspan><tspan
+         y="-1163.1807"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5620" /><tspan
+         y="-1143.5807"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5622"
+         style="font-style:italic;font-weight:bold">Vintage Computing</tspan><tspan
+         y="-1123.9806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5626">Much of FreeGeek's collection of vintage computers and</tspan><tspan
+         y="-1104.3806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5640">game systems will be on display and available for sale. Jim</tspan><tspan
+         y="-1084.7806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5657">Mazurek has been very generous with his time over the last</tspan><tspan
+         y="-1065.1807"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5659">month or two and has compiled a lengthy inventory of these</tspan><tspan
+         id="tspan5606"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         y="-1045.5807"
+         x="868.85718"
+         sodipodi:role="line">items on his blog: <tspan
+   style="font-weight:bold;fill:#23aa23;fill-opacity:1"
+   id="tspan5748">http://mazurekj.blogspot.com</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         y="-1025.9806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5766" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;fill:#23aa23;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         y="-1006.3806"
+         x="868.85718"
+         sodipodi:role="line"
+         id="tspan5768">Continue Reading...</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5608"
+       y="-1320.4949"
+       x="869.14282"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       xml:space="preserve"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         y="-1320.4949"
+         x="869.14282"
+         id="tspan5610"
+         sodipodi:role="line">Holiday Party 2014</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       x="869.14282"
+       y="-1300.4949"
+       id="text5612"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5614"
+         x="869.14282"
+         y="-1300.4949"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold">Published 07 December 2014</tspan></text>
+    <rect
+       y="-341.50708"
+       x="21.050432"
+       height="340.64325"
+       width="389.92896"
+       id="rect5830"
+       style="fill:none;stroke:#fcfafa;stroke-width:1.15592325;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5832"
+       y="-374.20923"
+       x="858"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+       xml:space="preserve"><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+         y="-374.20923"
+         x="858"
+         id="tspan5834"
+         sodipodi:role="line">Calendar</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5840"
+       y="-374.81836"
+       x="15.208313"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff2a7f;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+       xml:space="preserve"><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff2a7f;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
+         y="-374.81836"
+         x="15.208313"
+         id="tspan5842"
+         sodipodi:role="line">From Our Logs</tspan></text>
+    <rect
+       style="fill:none;stroke:#c8d3d5;stroke-width:1.08487403;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5894"
+       width="390"
+       height="300"
+       x="855.01489"
+       y="-361.5426" />
+    <rect
+       y="-341.5083"
+       x="20.039062"
+       height="339.21707"
+       width="389.93137"
+       id="rect5896"
+       style="fill:none;stroke:#fcfafa;stroke-width:1.15350461;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <image
+       width="404"
+       height="355"
+       xlink:href="file:///home/jslater/Software_FreeGeek/fgc-www/_docs/gcalendar.png"
+       id="image5898"
+       x="852"
+       y="-367.13782" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+       x="16.857178"
+       y="103.21936"
+       id="text5900"
+       sodipodi:linespacing="140%"><tspan
+         style="font-style:italic;font-weight:bold"
+         sodipodi:role="line"
+         x="16.857178"
+         y="103.21936"
+         id="tspan5902">Hey FreeGeekers!</tspan><tspan
+         id="tspan5908"
+         sodipodi:role="line"
+         x="16.857178"
+         y="122.81936">FreeGeek is hosting a joint Holiday and Vintage Computing Party on Saturday, December 13th from</tspan><tspan
+         id="tspan5912"
+         sodipodi:role="line"
+         x="16.857178"
+         y="142.41936">2p to 6p. We'll be ordering our standard fare of pizza and chicken to chomp on, though you're also</tspan><tspan
+         sodipodi:role="line"
+         x="16.857178"
+         y="162.01936"
+         id="tspan6182">encouraged to bring a dish from home (especially Holiday treats and vegan dishes).</tspan><tspan
+         id="tspan5914"
+         sodipodi:role="line"
+         x="16.857178"
+         y="181.61935" /><tspan
+         style="font-style:italic;font-weight:bold"
+         id="tspan5916"
+         sodipodi:role="line"
+         x="16.857178"
+         y="201.21936">Vintage Computing</tspan><tspan
+         id="tspan5922"
+         sodipodi:role="line"
+         x="16.857178"
+         y="220.81935">Much of FreeGeek's collection of vintage computers and game systems will be on display and available for sale. Jim Mazurek has</tspan><tspan
+         sodipodi:role="line"
+         x="16.857178"
+         y="240.41936"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan5926">been very generous with his time over the last month or two and has compiled a lengthy inventory of these items on his blog:</tspan><tspan
+         sodipodi:role="line"
+         x="16.857178"
+         y="260.01935"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;fill:#23aa23;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="tspan6194"> http://mazurekj.blogspot.com</tspan><tspan
+         id="tspan5930"
+         sodipodi:role="line"
+         x="16.857178"
+         y="279.61935"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:139.99999762%;font-family:Roboto;-inkscape-font-specification:Roboto Light" /><tspan
+         id="tspan5932"
+         sodipodi:role="line"
+         x="16.857178"
+         y="299.21936"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:139.99999762%;fill:#23aa23;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light">Continue Reading...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       x="8.6377449"
+       y="-320.49487"
+       id="text5934"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5936"
+         x="8.6377449"
+         y="-320.49487"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold">Your Invitation to the FGC Holiday Party</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5938"
+       y="-300.49487"
+       x="9.3520298"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         y="-300.49487"
+         x="9.3520298"
+         id="tspan5940"
+         sodipodi:role="line">Published 07 December 2014</tspan><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6e8387;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         y="-282.99487"
+         x="9.3520298"
+         sodipodi:role="line"
+         id="tspan6385">by James Slater</tspan></text>
+    <rect
+       y="-810.79938"
+       x="264.49997"
+       height="300"
+       width="750"
+       id="rect6201"
+       style="fill:#f9f9f9;fill-opacity:0.93333333;stroke:none" />
+    <g
+       transform="translate(185.70579,947.26902)"
+       id="g6203">
+      <text
+         sodipodi:linespacing="125%"
+         id="text6205"
+         y="-1682.1158"
+         x="159.604"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
+           y="-1682.1158"
+           x="159.604"
+           id="tspan6207"
+           sodipodi:role="line">FreeGeek Chicago</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
+         x="156.15236"
+         y="-1686.1564"
+         id="text6209"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6211"
+           x="156.15236"
+           y="-1686.1564"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna">FreeGeek Chicago</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
+       x="295.48013"
+       y="-662.34192"
+       id="text6213"
+       sodipodi:linespacing="175%"><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-662.34192"
+         id="tspan6215"> • Provides education in practical computing, hands-on job skills training, and an outlet for community service.</tspan><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-637.84192"
+         id="tspan6217"> • Refurbishes used computer equipment to provide functional computers to volunteers and the general public.</tspan><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-613.34192"
+         id="tspan6219"> • Recycles non-reusable materials in an ethical, safe, and environmentally responsible manner.</tspan><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-588.84192"
+         id="tspan6221"> • Promotes a strong participatory community by creating a safe space and welcoming environment for all.</tspan><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-564.34192"
+         id="tspan6223"> • An advocate for open source software and Free/Libre culture</tspan><tspan
+         sodipodi:role="line"
+         x="295.48013"
+         y="-539.84192"
+         id="tspan6225"> • An autonomous, self-sustaining community organization.</tspan></text>
+    <text
+       sodipodi:linespacing="175%"
+       id="text6227"
+       y="-663.35211"
+       x="294.46997"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:175%;letter-spacing:0px;word-spacing:0px;fill:#6e8387;fill-opacity:1;stroke:none;font-family:MgOpen Moderna;-inkscape-font-specification:MgOpen Moderna"
+       xml:space="preserve"><tspan
+         id="tspan6229"
+         y="-663.35211"
+         x="294.46997"
+         sodipodi:role="line"> • Educates in practical computing, hands-on job skills training, and an outlet for community service.</tspan><tspan
+         id="tspan6231"
+         y="-638.85211"
+         x="294.46997"
+         sodipodi:role="line"> • Refurbishes used computer equipment to provide functional computers to volunteers and the general public.</tspan><tspan
+         id="tspan6233"
+         y="-614.35211"
+         x="294.46997"
+         sodipodi:role="line"> • Recycles non-reusable materials in an ethical, safe, and environmentally responsible manner.</tspan><tspan
+         id="tspan6235"
+         y="-589.85211"
+         x="294.46997"
+         sodipodi:role="line"> • Promotes a strong participatory community by creating a safe space and welcoming environment for all.</tspan><tspan
+         id="tspan6237"
+         y="-565.35211"
+         x="294.46997"
+         sodipodi:role="line"> • An advocate for open source software and Free/Libre culture</tspan><tspan
+         id="tspan6239"
+         y="-540.85211"
+         x="294.46997"
+         sodipodi:role="line"> • An autonomous, self-sustaining community organization.</tspan></text>
+    <rect
+       style="fill:#c8d3d5;fill-opacity:1;stroke:none;opacity:0.2"
+       id="rect6387"
+       width="840"
+       height="350"
+       x="10"
+       y="-270.49493" />
+    <image
+       y="-269.47028"
+       x="115.57143"
+       id="image6300"
+       xlink:href="file:///home/jslater/Software_FreeGeek/fgc-www/_docs/vin-logo.png"
+       height="347.22067"
+       width="625.42859" />
+    <path
+       style="fill:none;stroke:#ff2a7f;stroke-width:0.7228868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.7612827,-367.6378 219.4774373,0"
+       id="path6311"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ff2a7f;fill-opacity:1;stroke:none"
+       id="rect6313"
+       width="170"
+       height="390"
+       x="-169.14288"
+       y="-2756.2092" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6315"
+       d="m 849.76128,-367.6378 219.47742,0"
+       style="fill:none;stroke:#ff2a7f;stroke-width:0.7228868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-1457.6378"
        x="0"
-       y="-987.63782" />
+       height="50"
+       width="1280"
+       id="rect6391"
+       style="fill:#6e8387;fill-opacity:0.86567161;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6393"
+       y="-1423.3521"
+       x="10"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Canonica;-inkscape-font-specification:MgOpen Canonica"
+       xml:space="preserve"><tspan
+         id="tspan6399"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         y="-1423.3521"
+         x="10"
+         sodipodi:role="line"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome Bold"
+           id="tspan3749"><tspan
+   style="font-size:14px"
+   id="tspan3753"> @freegeekchicago</tspan>   <tspan
+   style="font-size:18px"
+   id="tspan3756">@freegeekchicago</tspan>   </tspan><tspan
+           style="font-size:18px"
+           id="tspan3758"> +freegeekchicago</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fcfafa;fill-opacity:1;stroke:none;font-family:MgOpen Canonica;-inkscape-font-specification:MgOpen Canonica"
+       x="996"
+       y="-1910.6378"
+       id="text3760"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="996"
+         y="-1910.6378"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#fcfafa;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+         id="tspan3762"><tspan
+           id="tspan3764"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome Bold">     </tspan></tspan></text>
   </g>
 </svg>

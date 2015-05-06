@@ -47,7 +47,10 @@
 |   |   └── * Embedded Google Groups
 |   |
 |   ├── /community/blog
-|   |   └── * News stories (top one displayed on front page)
+|   |   └── * News stories (top one displayed on / front page)
+|   |
+|   ├── /community/thisweek
+|   |   └── * ThisWeek @ FreeGeek (top one displayed on /community
 |   |
 |   ├── /community/calendar
 |   |   └── * Embedded Google Calendar
